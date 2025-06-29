@@ -61,11 +61,11 @@
   <tr>
     <td align="center" valign="top">
       <b>🔐 로그인 입력 단계 (1~4)</b><br/>
-      <img src="./public/DailyUnse_로그인1.PNG" width="200"/>
-      <img src="./public/DailyUnse_로그인2.PNG" width="200"/>
+      <img src="./public/DailyUnse_로그인1.PNG" width="170"/>
+      <img src="./public/DailyUnse_로그인2.PNG" width="170"/>
       <br/>
-      <img src="./public/DailyUnse_로그인3.PNG" width="200"/>
-      <img src="./public/DailyUnse_로그인4.PNG" width="200"/>
+      <img src="./public/DailyUnse_로그인3.PNG" width="170"/>
+      <img src="./public/DailyUnse_로그인4.PNG" width="170"/>
     </td>
     <td align="center" valign="top">
       <b>🔍 검색 페이지</b><br/>
